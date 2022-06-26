@@ -9,8 +9,7 @@ Welcome to Credit Risk Toolbox's documentation!
    tests
    contributing
    usage
-   
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: Functions and classes

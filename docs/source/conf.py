@@ -17,11 +17,10 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../..'))
-import meliora
 
 # -- Project information -----------------------------------------------------
 
-project = 'meliora'
+project = 'Credit Risk Toolbox'
 copyright = '2022, Anton Treialt'
 author = 'Anton Treialt'
 

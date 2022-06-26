@@ -1,5 +1,5 @@
 Validation tests
-=================
+================
 
 .. toctree::
    :maxdepth: 4
@@ -34,4 +34,3 @@ Validation tests
    meliora.Spearman_Rank_Correlation
    meliora.Spiegelhalter_Test
    meliora.Traffic_Lights_Approach
-

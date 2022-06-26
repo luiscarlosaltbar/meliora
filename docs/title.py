@@ -11,7 +11,6 @@ for filepath in glob.glob(os.path.join("source/" + package_name, "*.rst")):
 
     with open(filepath) as file:
         lines = file.readlines()
-    # file.close()
 
     line = re.search(r"\.([^\.\s]+)\s\b", lines[0])
     if not line:
@@ -21,6 +20,5 @@ for filepath in glob.glob(os.path.join("source/" + package_name, "*.rst")):
 
     with open(filepath, "w") as file:
         file.writelines(lines)
-    # file.close()
 
 print('Package module titles changed.')
