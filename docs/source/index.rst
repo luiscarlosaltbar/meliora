@@ -1,5 +1,5 @@
 Welcome to Credit Risk Toolbox's documentation!
-========================================================
+===============================================
 
 .. toctree::
    :maxdepth: 2
